@@ -5,7 +5,8 @@ The evolving Multivariable Gaussian (eMG) is a forecasting model classified as a
 The paper [2] has a complete review of the eFSs.
 
 - eMG.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/eMG.py) is the eMG model. 
-MackeyGlass.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/MackeyGlass.py) is the script to prepare the Mackey-Glass time series, perform simulations, compute the results and plot the graphics. 
+
+- MackeyGlass.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/MackeyGlass.py) is the script to prepare the Mackey-Glass time series, perform simulations, compute the results and plot the graphics. 
 
 - Nonlinear.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/Nonlinear.py) is the script to prepare the nonlinear dynamic system identification time series, perform simulations, compute the results and plot the graphics. 
 
@@ -23,7 +24,7 @@ MackeyGlass.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e
 
 - PowerTransformerDay3.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay3.py) is the script to prepare the dataset of the power transformers on day 3, perform simulations, compute the results and plot the graphics.
 
-- PowerTransformerAllDays.py(https://github.com/kaikerochaalves/eTS-evolving-Takagi-Sugeno/blob/3f0f3762e0990496820617da608a7e77767e8966/PowerTransformerAllDays.py) is the script to prepare the dataset of the power transformers on day 1 to train the model, and days 2 and 3 to perform simulations, compute the results and plot the graphics.
+- PowerTransformerAllDays.py (https://github.com/kaikerochaalves/eMG/blob/e8b299491e78e182515da33af4f7043339b7c0e5/PowerTransformerAllDays.py) is the script to prepare the dataset of the power transformers on day 1 to train the model, and days 2 and 3 to perform simulations, compute the results and plot the graphics.
 
 [1] Lemos, A., Caminhas, W., & Gomide, F. (2010). Multivariable gaussian evolving fuzzy modeling system. IEEE Transactions on Fuzzy Systems, 19(1), 91-104.
 
