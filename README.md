@@ -4,16 +4,26 @@ The evolving Multivariable Gaussian (eMG) is a forecasting model classified as a
 
 The paper [2] has a complete review of the eFSs.
 
-eMG.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/eMG.py) is the eMG model. 
+- eMG.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/eMG.py) is the eMG model. 
 MackeyGlass.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/MackeyGlass.py) is the script to prepare the Mackey-Glass time series, perform simulations, compute the results and plot the graphics. 
-Nonlinear.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/Nonlinear.py) is the script to prepare the nonlinear dynamic system identification time series, perform simulations, compute the results and plot the graphics. 
-LorenzAttractor.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/LorenzAttractor.py) is the script to prepare the Lorenz Attractor time series, perform simulations, compute the results and plot the graphics. 
-NASDAQ.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/NASDAQ.py) is the script to prepare the NASDAQ time series, perform simulations, compute the results and plot the graphics. 
-SP500.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/SP500.py) is the script to prepare the S7P 500 time series, perform simulations, compute the results and plot the graphics. 
-TAIEX.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/TAIEX.py) is the script to prepare the TAIEX time series, perform simulations, compute the results and plot the graphics. 
-PowerTransformerDay1.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay1.py) is the script to prepare the dataset of the power transformers on day 1, perform simulations, compute the results and plot the graphics. 
-PowerTransformerDay2.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay2.py) is the script to prepare the dataset of the power transformers on day 2, perform simulations, compute the results and plot the graphics. 
-PowerTransformerDay3.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay3.py) is the script to prepare the dataset of the power transformers on day 3, perform simulations, compute the results and plot the graphics.
+
+- Nonlinear.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/Nonlinear.py) is the script to prepare the nonlinear dynamic system identification time series, perform simulations, compute the results and plot the graphics. 
+
+- LorenzAttractor.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/LorenzAttractor.py) is the script to prepare the Lorenz Attractor time series, perform simulations, compute the results and plot the graphics. 
+
+- NASDAQ.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/NASDAQ.py) is the script to prepare the NASDAQ time series, perform simulations, compute the results and plot the graphics. 
+
+- SP500.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/SP500.py) is the script to prepare the S7P 500 time series, perform simulations, compute the results and plot the graphics. 
+
+- TAIEX.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/TAIEX.py) is the script to prepare the TAIEX time series, perform simulations, compute the results and plot the graphics. 
+
+- PowerTransformerDay1.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay1.py) is the script to prepare the dataset of the power transformers on day 1, perform simulations, compute the results and plot the graphics. 
+
+- PowerTransformerDay2.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay2.py) is the script to prepare the dataset of the power transformers on day 2, perform simulations, compute the results and plot the graphics. 
+
+- PowerTransformerDay3.py (https://github.com/kaikerochaalves/eMG/blob/4b119c1706aae4d2934e4b7b5bc42b0b3abad13e/PowerTransformerDay3.py) is the script to prepare the dataset of the power transformers on day 3, perform simulations, compute the results and plot the graphics.
+
+- PowerTransformerAllDays.py(https://github.com/kaikerochaalves/eTS-evolving-Takagi-Sugeno/blob/3f0f3762e0990496820617da608a7e77767e8966/PowerTransformerAllDays.py) is the script to prepare the dataset of the power transformers on day 1 to train the model, and days 2 and 3 to perform simulations, compute the results and plot the graphics.
 
 [1] Lemos, A., Caminhas, W., & Gomide, F. (2010). Multivariable gaussian evolving fuzzy modeling system. IEEE Transactions on Fuzzy Systems, 19(1), 91-104.
 
