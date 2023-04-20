@@ -28,4 +28,4 @@ The paper [2] has a complete review of the eFSs.
 
 [1] Lemos, A., Caminhas, W., & Gomide, F. (2010). Multivariable gaussian evolving fuzzy modeling system. IEEE Transactions on Fuzzy Systems, 19(1), 91-104.
 
-[2] K.S.T.R. Alves, E. P. Aguiar, A novel rule-based evolving Fuzzy System applied to the thermal modeling of power transformers. Appl. Soft Comput. 112 (2021) 107764-107764, https://doi.org/10.1016/j.asoc.2021.
+[2] K.S.T.R. Alves, E. P. Aguiar, A novel rule-based evolving Fuzzy System applied to the thermal modeling of power transformers. Appl. Soft Comput. 112 (2021) 107764-107764, https://doi.org/10.1016/j.asoc.2021.107764.
